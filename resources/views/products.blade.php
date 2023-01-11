@@ -2,26 +2,11 @@
 
 @section('content')
 
-
 <section class="wrapper">
     <div class="container pt-12 pt-lg-8 pb-14 pb-md-17">
         <div class="row text-center">
             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 mb-10">
-                <div style="
-                    border-top-width: 5px !important;
-                    border-right-width: 5px !important;
-                    border-bottom-width: 5px !important;
-                    border-left-width: 5px !important;
-                    padding-top: 25px !important;
-                    padding-bottom: 25px !important;
-                    border-left-color: #000000 !important;
-                    border-left-style: solid !important;
-                    border-right-color: #000000 !important;
-                    border-right-style: solid !important;
-                    border-top-color: #000000 !important;
-                    border-top-style: solid !important;
-                    border-bottom-color: #000000 !important;
-                    border-bottom-style: solid !important;">
+                <div class="border-dark">
                     <h1>OUR PRODUCTS</h1>
                 </div>
             </div>

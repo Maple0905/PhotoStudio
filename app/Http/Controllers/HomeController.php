@@ -13,4 +13,12 @@ class HomeController extends Controller {
     public function products() {
         return view('products');
     }
+
+    public function about_us() {
+        return view('about_us');
+    }
+
+    public function what_we_do() {
+        return view('what_we_do');
+    }
 }
