@@ -1,8 +1,6 @@
-<nav class="navbar navbar-expand-lg center-logo transparent navbar-light">
+<nav class="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark caret-none">
     <div class="container flex-lg-row flex-nowrap align-items-center">
-        <div class="navbar-brand w-100">
-            <a href="/"><img src="{{ asset('img/banner.png') }}" srcset="{{ asset('img/banner.png 2x') }}" alt="" /></a>
-        </div>
+        <div class="navbar-brand w-100"></div>
         <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
             <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
                 <ul class="navbar-nav">
