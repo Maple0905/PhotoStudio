@@ -1,4 +1,5 @@
-<nav class="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark caret-none">
+{{-- <nav class="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark caret-none"> --}}
+<nav class="navbar navbar-expand-lg center-nav transparent navbar-light">
     <div class="container flex-lg-row flex-nowrap align-items-center">
         <div class="navbar-brand w-100"></div>
         <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">

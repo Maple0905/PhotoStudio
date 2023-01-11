@@ -74,7 +74,7 @@
 </section>
 
 <section class="wrapper">
-    <div class="container py-14 py-md-16">
+    <div class="container py-14 pb-md-16">
         <div class="row gx-lg-8 gx-xl-12 gy-10 mb-14 mb-md-17 align-items-center">
             <div class="col-sm-6">
                 <figure><img src="{{ asset('img/home2.png') }}" srcset="{{ asset('img/home2.png 2x') }}" alt=""></figure>
@@ -127,80 +127,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="wrapper">
-    <div class="container py-14 pt-md-16 pb-md-16">
-        <div class="row col-md-10 col-lg-10 col-xl-10 col-xxl-10  align-items-center mx-auto">
-            <div class="col-lg-6">
-                <div style="border-top-width: 5px !important;
-                    border-right-width: 5px !important;
-                    border-bottom-width: 5px !important;
-                    border-left-width: 5px !important;
-                    padding-top: 25px !important;
-                    padding-right: 20px !important;
-                    padding-bottom: 25px !important;
-                    padding-left: 20px !important;
-                    border-left-color: #000000 !important;
-                    border-left-style: solid !important;
-                    border-right-color: #000000 !important;
-                    border-right-style: solid !important;
-                    border-top-color: #000000 !important;
-                    border-top-style: solid !important;
-                    border-bottom-color: #000000 !important;
-                    border-bottom-style: solid !important;">
-                    <h1>CONTACT US</h1>
-                    <p>
-                        6-10 Douston Street <br>
-                        London <br>
-                        E8 4DG
-                    </p>
-                    <p>
-                        <a href="/terms-and-conditions/">Terms &amp; Conditions</a>
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div style="border-top-width: 5px !important;
-                    border-right-width: 5px !important;
-                    border-bottom-width: 5px !important;
-                    border-left-width: 5px !important;
-                    padding-top: 25px !important;
-                    padding-right: 20px !important;
-                    padding-bottom: 25px !important;
-                    padding-left: 20px !important;
-                    border-left-color: #000000 !important;
-                    border-left-style: solid !important;
-                    border-right-color: #000000 !important;
-                    border-right-style: solid !important;
-                    border-top-color: #000000 !important;
-                    border-top-style: solid !important;
-                    border-bottom-color: #000000 !important;
-                    border-bottom-style: solid !important;">
-                    <h1>EMAIL US</h1>
-                    <form class="text-start mb-3">
-                        <p>
-                            <label for="name">Your Name (required)</label>
-                            <input type="text" name="name" class="form-control" aria-required="true" aria-invalid="false" />
-                        </p>
-                        <p>
-                            <label for="email">Your Email (required)</label>
-                            <input type="text" name="email" class="form-control" aria-required="true" aria-invalid="false" />
-                        </p>
-                        <p>
-                            <label for="phone">Phone</label>
-                            <input type="text" name="phone" class="form-control" aria-required="true" aria-invalid="false" />
-                        </p>
-                        <p>
-                            <label for="message">Your Message</label>
-                            <textarea name="your-message" rows="6" class="form-control" aria-required="true" aria-invalid="false"></textarea>
-                        </p>
-                        <input type="submit" value="Send" class="form-control btn btn-login mb-2" />
-                    </form>
                 </div>
             </div>
         </div>
