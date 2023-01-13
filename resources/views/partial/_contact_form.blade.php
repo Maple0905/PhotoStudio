@@ -4,14 +4,9 @@
             <div class="col-lg-6">
                 <div class="border-dark">
                     <h1>CONTACT US</h1>
-                    <p>
-                        6-10 Douston Street <br>
-                        London <br>
-                        E8 4DG
-                    </p>
-                    <p>
-                        <a href="/terms-and-conditions" class="text-red">Terms &amp; Conditions</a>
-                    </p>
+                    <p>6-10 Douston Street <br>London <br>E8 4DG</p>
+                    @yield('contact_info')
+                    <p><a href="/terms-and-conditions" class="text-red">Terms &amp; Conditions</a></p>
                 </div>
             </div>
             <div class="col-lg-6">
