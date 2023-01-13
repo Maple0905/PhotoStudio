@@ -11,7 +11,7 @@
         <div class="row col-lg-10 mx-auto text-center align-items-center">
             <div class="col-md-6 offset-md-3 mb-10">
                 <div class="border-dark">
-                    <h1 class="mb-0">WHAT WE DO</h1>
+                    <h1 class="mb-0">WHAT WE DO.</h1>
                 </div>
             </div>
         </div>

@@ -10,7 +10,7 @@
                         E8 4DG
                     </p>
                     <p>
-                        <a href="/terms-and-conditions/">Terms &amp; Conditions</a>
+                        <a href="/terms-and-conditions" class="text-red">Terms &amp; Conditions</a>
                     </p>
                 </div>
             </div>

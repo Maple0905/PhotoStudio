@@ -21,4 +21,8 @@ class HomeController extends Controller {
     public function what_we_do() {
         return view('what_we_do');
     }
+
+    public function prices() {
+        return view('prices');
+    }
 }
