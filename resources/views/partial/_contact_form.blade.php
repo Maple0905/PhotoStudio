@@ -1,6 +1,6 @@
 <section class="wrapper">
-    <div class="container py-md-16">
-        <div class="row col-md-10 col-lg-10 col-xl-10 col-xxl-10  align-items-center mx-auto">
+    <div class="container pt-md-10 pb-md-10">
+        <div class="row col-lg-10 mx-auto align-items-center">
             <div class="col-lg-6">
                 <div class="border-dark">
                     <h1>CONTACT US</h1>
@@ -34,7 +34,7 @@
                             <label for="message">Your Message</label>
                             <textarea name="your-message" rows="6" class="form-control" aria-required="true" aria-invalid="false"></textarea>
                         </p>
-                        <input type="submit" value="Send" class="form-control btn btn-login mb-2" />
+                        <input type="submit" value="Send" class="form-control btn btn-dark mb-0" style="width: 25%;" />
                     </form>
                 </div>
             </div>
