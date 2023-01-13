@@ -19,7 +19,7 @@
 <body>
     <div class="content-wrapper">
         <header class="wrapper bg-soft-primary">
-            @include('layouts.header')
+            @yield('header')
         </header>
         @yield('content')
         

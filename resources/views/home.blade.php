@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('header')
+    @include('layouts.header_home')
+@endsection
+
 @section('content')
 
 <section class="wrapper image-wrapper bg-image bg-overlay text-white" data-image-src="{{ asset('img/banner.png') }}">
