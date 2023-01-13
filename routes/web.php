@@ -21,3 +21,4 @@ Route::get('/what-we-do', [HomeController::class, 'what_we_do'])->name('what_we_
 Route::get('/prices', [HomeController::class, 'prices'])->name('prices');
 Route::get('/creatives', [HomeController::class, 'creatives'])->name('creatives');
 Route::get('/contact', [HomeController::class, 'contact'])->name('contact');
+Route::get('/terms-and-conditions', [HomeController::class, 'terms_and_conditions'])->name('terms_and_conditions');

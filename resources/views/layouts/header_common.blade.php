@@ -2,6 +2,11 @@
 <nav class="navbar navbar-expand-lg center-nav transparent navbar-light">
     <div class="container flex-lg-row flex-nowrap align-items-center">
         <div class="navbar-brand w-100"></div>
+        <div class="navbar-brand w-100">
+            <a href="/">
+                <h1 class="display-3">DUPE</h1>
+            </a>
+        </div>
         <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
             <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
                 <ul class="navbar-nav">

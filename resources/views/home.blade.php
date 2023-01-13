@@ -8,9 +8,15 @@
 
 <section class="wrapper image-wrapper bg-image bg-overlay text-white" data-image-src="{{ asset('img/banner.png') }}">
     <div class="container pt-19 pt-md-21 pb-18 pb-md-20 text-center">
-        <div class="row col-md-10 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
-            <h1 class="display-1 text-white mb-3">DUPE</h1>
-            <p class="lead fs-lg px-md-3 px-lg-7 px-xl-9 px-xxl-10">We are happy to provide fashion photography series for established agencies, labels and organisations, as well as young talents and startups</p>
+        <div class="row col-md-10 col-lg-8 col-xl-7 col-xxl-6 mx-auto" data-cue="zoomOut" data-delay="600">
+            {{-- <h1 class="display-1 text-white mb-0">DUPE</h1> --}}
+            <img src="{{ asset('img/dupe.png') }}" srcset="{{ asset('img/dupe.png 2x') }}" style="width: 100%;" alt="" />
+            {{-- <img src="{{ asset('img/home1.png') }}" srcset="{{ asset('img/home1.png 2x') }}" style="width: 100%;" alt="" /> --}}
+            <h1 class="display-4 text-white mb-0">We are happy to provide</p>
+            <h1 class="display-4 text-white mb-0">fashion photography series</p>
+            <h1 class="display-4 text-white mb-0">for established agencies, labels</p>
+            <h1 class="display-4 text-white mb-0">and organisations, as well as</p>
+            <h1 class="display-4 text-white mb-0">young talents and startups</p>
         </div>
     </div>
 </section>
@@ -23,7 +29,7 @@
             </div>
             <div class="col-sm-6">
                 <div class="border-dark">
-                    <h1 class="mt-3">FASHION MAGAZINE AND EDITORIAL PHOTOGRAPHY</h1>
+                    <h1 class="display-3 mt-0 mb-0">FASHION MAGAZINE AND EDITORIAL PHOTOGRAPHY</h1>
                 </div>
                 <p class="mt-3">Fashion is about telling stories, images replace words and this is how you sell your product. Magazine sales through photography have become a global culture and social phenomenon with advertising and events being the number one selling point. We have an exceptional team at Impact Digital Photography with experience at shooting high end fashion magazines and productions. No matter how big or small we can help you create something very extraordinary, from photographers, stylists, makeup artists, production assistants, set designs and so much more.</p>
                 <p class="mb-0">If you or your organisation have a story to tell, an idea to share or word to spread, Impact Digital Photography can help you bring your ideas to life.</p>

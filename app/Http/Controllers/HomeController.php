@@ -33,4 +33,8 @@ class HomeController extends Controller {
     public function contact() {
         return view('contact');
     }
+
+    public function terms_and_conditions() {
+        return view('terms_and_conditions');
+    }
 }
