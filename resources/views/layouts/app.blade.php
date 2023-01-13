@@ -25,7 +25,7 @@
         
         @include('partial._contact_form')
     </div>
-    <footer class="bg-dark text-inverse">
+    <footer class="wrapper bg-light">
         @include('layouts.footer')
     </footer>
     <script src="{{ asset('js/plugins.js') }}"></script>
